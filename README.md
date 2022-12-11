@@ -7,4 +7,8 @@ Lessons:
 1.1. Lab
 1.2. Exercise
 
+2. Data Types And Variables.
+2.1. Lab
+2.2. Execise
+2.3. More Exercsise
 
