@@ -12,3 +12,8 @@ Lessons:
 2.2. Execise
 2.3. More Exercsise
 
+2. Arrays.
+2.1. Lab
+2.2. Execise
+2.3. More Exercsise
+
